@@ -10,6 +10,7 @@ text-decoration:underline;}
     padding-right: auto;}
 #objective{text-align: center;}
 #bottombox{text-align: center;}
+#bodybox{border-style: solid;}
 li{font-weight: bold;}
 .daterange{font-family:'Courier New', Courier, monospace;
 font-style:italic;}
