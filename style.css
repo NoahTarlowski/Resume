@@ -8,6 +8,7 @@ text-decoration:underline;}
    border-style:ridge;
     padding-left: auto; 
     padding-right: auto;}
+#objective{text-align: center;}
 li{font-weight: bold;}
 .daterange{font-family:'Courier New', Courier, monospace;
 font-style:italic;}
