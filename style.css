@@ -11,6 +11,7 @@ text-decoration:underline;}
 #objective{text-align: center;}
 #bottombox{text-align: center;}
 #bodybox{border-style: solid;}
-li{font-weight: bold;}
+li{font-weight: bold;
+    text-decoration: underline;}
 .daterange{font-family:'Courier New', Courier, monospace;
 font-style:italic;}
